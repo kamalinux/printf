@@ -45,7 +45,7 @@ If the program runs successfully, the **return value** is the amount of chars pr
 ## Examples
 
 1. Printing the string of chars "Hello, ALX":
-	+ Use: `_printf("Hello Hol%s.", "berton");`
+	+ Use: `_printf("Hello AL%s.", "X");`
 	+ Output: `Hello ALX.`
 
 2. Printing an integer number:
